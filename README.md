@@ -112,11 +112,11 @@ Dans notre cas en vas réaliser un projet de la presse thématique (Environnemen
 ![API page](https://github.com/soukainaagdal/ProjectP4/blob/master/seqeunce.PNG)
 
 
-![API page](https://github.com/soukainaagdal/ProjectP4/sqounce.PNG)
+![API page](https://github.com/soukainaagdal/ProjectP4/blob/master/sqounce.PNG)
 
 ### Diagramme de classe
 
-![API page](https://github.com/soukainaagdal/ProjectP4/classe.PNG)
+![API page](https://github.com/soukainaagdal/ProjectP4/blob/master/classe.PNG)
 
 
 
