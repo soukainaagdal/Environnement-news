@@ -105,7 +105,7 @@ Dans notre cas en vas réaliser un projet de la presse thématique (Environnemen
 - Conception de bases de données relationnelles avec UML. 
 
 ### Diagramme de Use Case 
-![API page](https://github.com/soukainaagdal/ProjectP4/blob/master/)
+![API page](https://github.com/soukainaagdal/ProjectP4/blob/master/useCase.png)
 
 ### Diagramme de séquence
 
