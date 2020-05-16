@@ -109,7 +109,7 @@ Dans notre cas en vas réaliser un projet de la presse thématique (Environnemen
 
 ### Diagramme de séquence
 
-![API page](https://github.com/soukainaagdal/ProjectP4/seqeunce.PNG)
+![API page](https://github.com/soukainaagdal/ProjectP4/blob/master/seqeunce.PNG)
 
 
 ![API page](https://github.com/soukainaagdal/ProjectP4/sqounce.PNG)
